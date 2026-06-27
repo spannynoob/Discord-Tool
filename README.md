@@ -7,7 +7,6 @@
     \|_______|\|_______|   \|__|  \|_______|\|_______|\|_______|
 	
 	                                     dctool ~ spannynoob
-
 How to use:-
 Follow instructions
 
@@ -22,3 +21,8 @@ Setup:-
 8. Press 1.
 9. Paste the Url, Type your messages and hit enter.
 10. The message will be sent in the channel!
+
+
+Images:-
+[!Alttext](screenshot-1781106892061-1.png)
+[!Alttext](screenshot-1781106892786-2.png)
