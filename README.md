@@ -24,5 +24,5 @@ Setup:-
 
 
 Images:-
-[!Altertext](screenshot-1781106892061-1.png)
-[!Alttext](screenshot-1781106892786-2.png)
+[!Alt text](screenshot-1781106892061-1.png)
+[!Alt text](screenshot-1781106892786-2.png)
